@@ -10,7 +10,11 @@
 2. [«Арт-рэйв как инновационная форма современного шоу» — основной текст дипломной работы](thesis/art-rave-2020-text.md) (2020): история рейва, развитие сцен по странам и авторские выводы.
 3. [Как устроен Sound Atlas](atlas/dj-luv-sound-atlas.md) и [единый маршрут](atlas/dj-luv-unified-sound-atlas.md) — дополнительные рабочие заметки.
 
-[Первая страница PDF](atlas/sound-atlas-cover.png) сохранена отдельно; главная обложка выше — присланная автором карточка ArtRave / Sound Atlas.
+### DJ LUV / Sound Atlas
+
+![Карточка DJ LUV / Sound Atlas, присланная Снежаной](atlas/dj-luv-sound-atlas-cover.jpg)
+
+[Первая страница PDF](atlas/sound-atlas-cover.png) сохранена отдельно. Главная обложка ArtRave остаётся первой на странице; карточка DJ LUV представляет раздел Sound Atlas.
 
 ## Исходники и границы публикации
 
