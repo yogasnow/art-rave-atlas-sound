@@ -4,7 +4,7 @@
 
 **Быстрый вход:** [посмотреть Sound Atlas](atlas/sound-atlas-2026.pdf) → [открыть код сборки](atlas/build_sound_atlas.js) → **статус:** презентация и текст диплома опубликованы → **дальше:** проверить даты, библиографию и связи жанров.
 
-![Обложка ArtRave / Sound Atlas, присланная Снежаной](atlas/art-rave-sound-atlas-cover.jpg)
+![Обложка ArtRave / Sound Atlas](atlas/art-rave-sound-atlas-cover.jpg)
 
 ## Начать здесь
 
@@ -14,11 +14,11 @@
 
 ### DJ LUV / Sound Atlas
 
-![Карточка DJ LUV / Sound Atlas, присланная Снежаной](atlas/dj-luv-sound-atlas-cover.jpg)
+![Карточка DJ LUV / Sound Atlas](atlas/dj-luv-sound-atlas-cover.jpg)
 
 [Музыкальные направления и эпохи](atlas/genres-and-eras/README.md) — рабочая папка для шести направлений с карточки и дальнейшего исследования их истории.
 
-**Музыкальная практика DJ LUV:** [128-тактовый звуковой эскиз, наброски и полный код](https://github.com/yogasnow/live-coding/tree/main/projects/dj-luv-128-bars) находятся в существующем `live-coding`. Атлас и партитура связаны учебной темой, но PDF не объявляется исходником аудиорендера.
+**Музыкальная практика DJ LUV:** [128-тактовый звуковой эскиз, наброски и полный код](https://github.com/yogasnow/live-coding/tree/main/projects/dj-luv-128-bars) представлены в разделе Live Coding. Атлас и партитура связаны учебной темой, но PDF не объявляется исходником аудиорендера.
 
 [Как превратить атлас в учебный вклад](atlas/LEARNING-CONTRIBUTION.md) — один цикл: слушать → наблюдать → сверять источник → предложить точечную правку.
 
